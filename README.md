@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm now a Ph.D. in Computer Science from Huazhong University of Science and Technology (HUST) and focus on non-volatile memory systems, storage systems and techniques, remote direct memory access and distributed systems, wear balance and security. If you have any questions about me, please check my [website](https://gumi-presentation-by-dzh.github.io/)
+I'm now a Ph.D. in Computer Science from Huazhong University of Science and Technology (HUST) and focus on non-volatile memory systems, storage systems and techniques, remote direct memory access and distributed systems, wear balance and security. If you have any questions about me, please check my [website](https://gumi-presentation-by-dzh.github.io/).
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Gumi-presentation-by-Dzh&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
